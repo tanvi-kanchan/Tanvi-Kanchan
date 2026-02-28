@@ -31,8 +31,8 @@
     <td width="50%" valign="top">
       <br />
       <ul>
-        <li> **Focus:** Building scalable, secure, and resilient cloud architectures.</li>
-        <li> **Passions:** Cloud Security, Serverless computing, and Cost Optimization.</li>
+        <li> <b>Focus:</b> Building scalable, secure, and resilient cloud architectures.</li>
+        <li> <b>Passions:</b> Cloud Security, Serverless computing, and Cost Optimization.</li>
       </ul>
     </td>
     <td width="50%">
@@ -48,8 +48,8 @@
 
 | Domain | Tools |
 | :--- | :--- |
-| **IaC & Ops** | <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazon-aws" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes" /> |
-| **Automation** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions" /> |
-| **Environment** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" /> |
+| <b>IaC & Ops</b>| <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazon-aws" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes" /> |
+| <b>Automation</b>| <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions" /> |
+| <b>Environment</b> | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" /> |
 
 ---
