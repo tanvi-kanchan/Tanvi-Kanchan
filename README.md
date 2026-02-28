@@ -1,10 +1,9 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" width="40" /> 
   Hey, I'm Tanvi Kanchan
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Cloud+Engineer;Infrastructure+as+Code;DevOps+Enthusiast;Automation+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Cloud+Engineer;DevOps+Enthusiast;Automation+Specialist" alt="Typing SVG" />
 </p>
 
 <p align="center">
